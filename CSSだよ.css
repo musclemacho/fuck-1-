@@ -1,0 +1,26 @@
+.btn a{
+    color:rgb(241, 15, 223);
+    font-size:25px
+}
+.btn a:hover {
+    color:black;
+}
+.btn h1 {
+    font-family:'Times New Roman', Times, serif;
+    font-size:50px;
+}
+
+
+.fuck {
+    background-image: url("https://t3.ftcdn.net/jpg/07/67/66/72/240_F_767667293_qtakjXq6z7zQl0GTeYQvOfB0sMKj4tKb.jpg");
+    background-size: cover;
+    height: 500px;
+}
+.fuck h1 {
+    font-size: 100px;
+    opacity: 0.7;
+    line-height: 100px;
+    margin-top: 50px;
+    margin-left: 10px;
+    color: rgb(235, 48, 79);
+}
